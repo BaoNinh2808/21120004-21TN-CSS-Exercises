@@ -1,0 +1,15 @@
+.container{
+    position: relative;
+}
+
+.text-block{
+    position: absolute;
+    top:50%;
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+h3{
+    font-size: 40px;
+}
